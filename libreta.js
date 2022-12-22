@@ -531,7 +531,7 @@ Location
     -window.location.assign() --------> (carga un nuevo documento)
      */
 
-eventos
+/*eventos
 *Definición
 *"event handler" o de eventos
 *Escucha de eventos o "Event Listeners"
@@ -562,7 +562,7 @@ Eventos de la Interfaz
 *error-ocurre cuando sucede un error durante la carga de un archivo multimedia
 *load-ocurre cuando un objeto se ha cargado
 *beforeunload-ocurre antes de que el documento este a puntode descargarse
-*unload-ocurre una vez se ha cargado la pagina
+*unload-ocurre una vez se ha cargado la pagina/*
 
 
 
